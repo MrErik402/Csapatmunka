@@ -1,3 +1,2 @@
 # Erik
 # Csongor
-# Zalánn
