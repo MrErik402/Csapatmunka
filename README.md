@@ -1,4 +1,4 @@
-# Elérési útvonal: https://mrerik402.github.io/Csapatmunka/korabbi_sorsolasok.html
+# Elérési útvonal: https://mrerik402.github.io/Csapatmunka/index.html
 # Erik
 # Csongor
 # Zalán
