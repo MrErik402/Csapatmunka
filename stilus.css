@@ -1,3 +1,7 @@
-class menu{
-    background-color: auqa
+ul{
+    text-decoration: none;
+    text-align: left;
+    text-decoration-line: none;
+    background-color: black;
+    color: white;
 }
