@@ -1,9 +1,9 @@
 a:link, a:visited{
-    color:black;
+    color: rgb(163, 157, 157);
     text-decoration:none;
 }
 #navbar{
-    width: 250px;
+    width: 300px;
     position: fixed;
     top: 0;
     left: 0;
@@ -11,9 +11,20 @@ a:link, a:visited{
     height: auto;
     z-index: 999;
     transition: all 0.3s;
-    background-color: gray;
+    background-color: rgb(10, 10, 10);
     border-style: ridge;
+    color: white;
+    font-size: 25px;
 }
 body{
     margin-left: 26%;
+}
+#tartalom{
+    font-size: 2.5em;
+}
+p{
+    font-size: 3em;
+}
+h2{
+    font-size: 5em;
 }
