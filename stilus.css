@@ -1,7 +1,19 @@
-ul{
-    text-decoration: none;
-    text-align: left;
-    text-decoration-line: none;
-    background-color: black;
-    color: white;
+a:link, a:visited{
+    color:black;
+    text-decoration:none;
+}
+#navbar{
+    width: 250px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    height: auto;
+    z-index: 999;
+    transition: all 0.3s;
+    background-color: gray;
+    border-style: ridge;
+}
+body{
+    margin-left: 26%;
 }
