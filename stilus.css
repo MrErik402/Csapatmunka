@@ -28,3 +28,6 @@ p{
 h2{
     font-size: 5em;
 }
+a:hover{
+    background-color: rgb(123, 238, 94);
+}
