@@ -1,6 +1,7 @@
 a:link, a:visited{
     color: rgb(163, 157, 157);
     text-decoration:none;
+    transition: 0.5s;
 }
 #navbar{
     width: 300px;
@@ -29,5 +30,8 @@ h2{
     font-size: 5em;
 }
 a:hover{
-    background-color: rgb(50, 167, 20);
+    background-color: rgb(163, 157, 157);
+    color:rgb(10, 10, 10);
+    transition: 0.5s;
+    border-radius: 20%;
 }
