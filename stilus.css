@@ -34,6 +34,6 @@ h2{
 a:hover{
     background-color: rgb(163, 157, 157);
     color:rgb(10, 10, 10);
-    transition: 0.5s;
+    transition: 0.3s;
     border-radius: 20%;
 }
