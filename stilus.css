@@ -17,6 +17,7 @@ a:link, a:visited{
     color: white;
     font-size: 25px;
     font-family:'Blaka Hollow', cursive;
+    text-align: center;
 }
 body{
     margin-left: 28%;
